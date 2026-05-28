@@ -18,6 +18,10 @@ Atualmente focado em:
 - Chaos Engineering
 - CI/CD
 - Python
+- K6
+- Stress-NG
+- Chaos Toolkit
+- Terraform
 
 ## Certificações
 
