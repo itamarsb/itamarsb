@@ -6,7 +6,9 @@ Infraestrutura Crítica + Observabilidade + Cloud
 
 ## Sobre mim
 
-Profissional em transição para Cloud, DevOps e Engenharia de Observabilidade, com experiência anterior no setor elétrico brasileiro (CEEE/Equatorial Energia).
+Profissional em transição para Cloud, DevOps e Engenharia de Observabilidade, com experiência anterior no setor elétrico brasileiro (Grupo CEEE/Grupo Equatorial Energia).
+
+Linkedin: https://www.linkedin.com/in/itamar-de-sa-britto-jr/
 
 Atualmente focado em:
 - AWS
