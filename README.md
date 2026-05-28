@@ -1,16 +1,59 @@
-## Hi there 👋
+# Itamar de Sá Britto Júnior
 
-<!--
-**itamarsb/itamarsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenharia de Computação | Cloud Infrastructure | DevOps | SRE | Observability | AWS Certified
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Profissional em transição para Cloud, DevOps e Engenharia de Observabilidade, com experiência anterior no setor elétrico brasileiro (CEEE/Equatorial Energia).
+
+Atualmente focado em:
+- AWS
+- Observability Engineering
+- OpenTelemetry
+- Grafana
+- Prometheus
+- Linux
+- FastAPI
+- Terraform
+- Chaos Engineering
+- CI/CD
+- Python
+
+## Certificações
+
+- AWS Certified Cloud Practitioner
+
+## Projeto em destaque
+
+### Production-Like AWS Observability Stack
+
+Arquitetura de observabilidade inspirada em ambientes reais de produção utilizando:
+- OpenTelemetry
+- Prometheus
+- Grafana
+- Loki
+- Tempo
+- FastAPI
+- K6
+- Chaos Toolkit
+- AWS
+
+[[Link do projeto]](https://github.com/itamarsb/production-like-aws-observability-stack)
+
+## Stack principal
+
+- AWS
+- Linux
+- Python
+- Docker
+- Grafana Stack
+- Terraform
+- GitHub Actions
+- NGINX
+
+## Objetivos atuais
+
+- Cloud/DevOps/SRE
+- Engenharia de Observabilidade
+- Infraestrutura Cloud
+- Platform Engineering
