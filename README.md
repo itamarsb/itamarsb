@@ -2,6 +2,8 @@
 
 Engenharia de Computação | Cloud Infrastructure | DevOps | SRE | Observability | AWS Certified
 
+Infraestrutura Crítica + Observabilidade + Cloud
+
 ## Sobre mim
 
 Profissional em transição para Cloud, DevOps e Engenharia de Observabilidade, com experiência anterior no setor elétrico brasileiro (CEEE/Equatorial Energia).
@@ -10,7 +12,7 @@ Atualmente focado em:
 - AWS
 - Observability Engineering
 - OpenTelemetry
-- Grafana
+- Grafana / Loki / Tempo
 - Prometheus
 - Linux
 - FastAPI
