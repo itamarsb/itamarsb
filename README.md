@@ -65,3 +65,5 @@ Arquitetura de observabilidade inspirada em ambientes reais de produção utiliz
 - Engenharia de Observabilidade
 - Infraestrutura Cloud
 - Platform Engineering
+- Monitoramento e Telemetria
+- Redes de Computadores
