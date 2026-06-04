@@ -13,25 +13,28 @@ Linkedin: https://www.linkedin.com/in/itamar-de-sa-britto-jr/
 Atualmente focado em:
 - AWS
 - Observability Engineering
+- Distributed Systems
+- Cloud Infrastructure
+- Industrial Telemetry
 - OpenTelemetry
 - Grafana / Loki / Tempo
 - Prometheus
 - Linux
+- Python
 - FastAPI
 - Terraform
 - Chaos Engineering
 - CI/CD
-- Python
 - K6
 - Stress-NG
 - Chaos Toolkit
 - Terraform
 
-## Certificações
+## Certificações:
 
 - AWS Certified Cloud Practitioner
 
-## Projeto em destaque
+## Projeto em destaque:
 
 ### Production-Like AWS Observability Stack
 
@@ -48,7 +51,7 @@ Arquitetura de observabilidade inspirada em ambientes reais de produção utiliz
 
 [[Link do projeto]](https://github.com/itamarsb/production-like-aws-observability-stack)
 
-## Stack principal
+## Stack principal:
 
 - AWS
 - Linux
@@ -59,7 +62,7 @@ Arquitetura de observabilidade inspirada em ambientes reais de produção utiliz
 - GitHub Actions
 - NGINX
 
-## Objetivos atuais
+## Objetivos atuais:
 
 - Cloud/DevOps/SRE
 - Engenharia de Observabilidade
@@ -67,3 +70,15 @@ Arquitetura de observabilidade inspirada em ambientes reais de produção utiliz
 - Platform Engineering
 - Monitoramento e Telemetria
 - Redes de Computadores
+
+## Interesses secundários ou hobbies:
+
+- Embedded Systems
+- STM32
+- ESP32
+- PIC Microcontrollers
+- RFID Systems
+- IoT & Telemetry
+- RF Communications
+- Aviation Electronics
+
