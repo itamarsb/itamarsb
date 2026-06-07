@@ -243,14 +243,6 @@ Objectives:
 
 ---
 
-# 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itamarsb&show_icons=true&theme=github_dark&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itamarsb&layout=compact&theme=github_dark&cache_seconds=86400)
-
----
-
 # 🌱 Current Learning Goals
 
 * Advanced AWS Architecture
