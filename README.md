@@ -13,10 +13,16 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge\&logo=kubernetes)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge\&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge\&logo=grafana)
+![Loki](https://img.shields.io/badge/Loki-Log_Aggregation-F2F4F9?style=for-the-badge)
+![Tempo](https://img.shields.io/badge/Tempo-Distributed_Tracing-5468FF?style=for-the-badge)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-Alerting-E6522C?style=for-the-badge)
+![K6](https://img.shields.io/badge/K6-Performance_Testing-7D64FF?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Telemetry-000000?style=for-the-badge)
 ![Stress-NG](https://img.shields.io/badge/Stress--NG-Reliability_Testing-blueviolet?style=for-the-badge)
-![Stress-NG](https://img.shields.io/badge/Stress--NG-Performance_Testing-blue?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions)
+
 
 ---
 
