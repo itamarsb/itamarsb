@@ -230,6 +230,7 @@ Components:
 * Alertmanager
 * K6
 * Linux Server
+* Stress-NG
 
 Objectives:
 
