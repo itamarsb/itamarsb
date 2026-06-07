@@ -6,28 +6,49 @@
 
 ---
 
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge\&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge\&logo=linux)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge\&logo=terraform)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge\&logo=kubernetes)
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge\&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge\&logo=grafana)
-![Loki](https://img.shields.io/badge/Loki-Log_Aggregation-F2F4F9?style=for-the-badge)
-![Tempo](https://img.shields.io/badge/Tempo-Distributed_Tracing-5468FF?style=for-the-badge)
-![Alertmanager](https://img.shields.io/badge/Alertmanager-Alerting-E6522C?style=for-the-badge)
-![K6](https://img.shields.io/badge/K6-Performance_Testing-7D64FF?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Telemetry-000000?style=for-the-badge)
-![Stress-NG](https://img.shields.io/badge/Stress--NG-Reliability_Testing-blueviolet?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
+
+![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux)
+
+![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform)
+
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
+
 ![NGINX](https://img.shields.io/badge/NGINX-Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus)
+
+![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana)
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Telemetry-000000?style=for-the-badge)
+
+![Loki](https://img.shields.io/badge/Loki-Log_Aggregation-F2F4F9?style=for-the-badge)
+
+![Tempo](https://img.shields.io/badge/Tempo-Distributed_Tracing-5468FF?style=for-the-badge)
+
+![Alertmanager](https://img.shields.io/badge/Alertmanager-Alerting-E6522C?style=for-the-badge)
+
 ![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-D40000?style=for-the-badge)
+
+![Stress-NG](https://img.shields.io/badge/Stress--NG-Reliability_Testing-blueviolet?style=for-the-badge)
+
+![K6](https://img.shields.io/badge/K6-Performance_Testing-7D64FF?style=for-the-badge)
+
 ![Apache_JMeter](https://img.shields.io/badge/Apache_JMeter-Load_Testing-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
 ![Cypress](https://img.shields.io/badge/Cypress-E2E_Testing-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
 ![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
