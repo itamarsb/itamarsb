@@ -22,7 +22,7 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Telemetry-000000?style=for-the-badge)
 ![Stress-NG](https://img.shields.io/badge/Stress--NG-Reliability_Testing-blueviolet?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
