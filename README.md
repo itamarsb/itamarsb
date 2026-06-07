@@ -23,6 +23,11 @@
 ![Stress-NG](https://img.shields.io/badge/Stress--NG-Reliability_Testing-blueviolet?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-D40000?style=for-the-badge)
+![Apache_JMeter](https://img.shields.io/badge/Apache_JMeter-Load_Testing-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-E2E_Testing-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
