@@ -15,6 +15,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge\&logo=grafana)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Telemetry-000000?style=for-the-badge)
 ![Stress-NG](https://img.shields.io/badge/Stress--NG-Reliability_Testing-blueviolet?style=for-the-badge)
+![Stress-NG](https://img.shields.io/badge/Stress--NG-Performance_Testing-blue?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions)
 
 ---
