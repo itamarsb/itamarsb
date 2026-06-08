@@ -265,6 +265,7 @@ Objectives:
 * Site Reliability Engineering
 * Infrastructure Automation
 * Linux Administration
+* Advanced Telemetry and Monitoring
 
 ---
 
