@@ -277,6 +277,24 @@ Objectives:
 
 ---
 
+## Current Learning Roadmap
+
+- [x] Linux Fundamentals
+- [x] AWS Cloud Practitioner
+- [x] Monitoring with Zabbix
+- [x] Observability Fundamentals
+- [x] OpenTelemetry Basics
+- [x] FastAPI Fundamentals
+- [ ] Distributed Tracing
+- [ ] Kubernetes Observability
+- [ ] Service Mesh
+- [ ] GitOps
+- [ ] Platform Engineering
+
+---
+
+
+
 # 📫 Connect With Me
 
 LinkedIn:
