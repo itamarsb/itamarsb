@@ -250,13 +250,16 @@ Objectives:
 # 🌱 Current Learning Goals
 
 * Advanced AWS Architecture
+* Cloud Engineering
+* API Engineering
 * Kubernetes
 * Platform Engineering
 * Observability Engineering
 * Site Reliability Engineering
 * Infrastructure Automation
 * Linux Administration
-* Advanced Telemetry and Monitoring
+* Advanced Telemetry, Monitoring and Alerting
+* Performance Testing (K6)
 
 ---
 
