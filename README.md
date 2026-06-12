@@ -120,24 +120,15 @@ Trabajo principalmente con AWS, Linux, Prometheus, Grafana, OpenTelemetry, Terra
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## Production-Like AWS Observability Stack
-
-Production-inspired cloud environment built with AWS and modern observability practices.
-
-Technologies:
-
-* AWS
-* Terraform
-* Docker
-* Prometheus
-* Grafana
-* OpenTelemetry
-* CI/CD
-* Monitoring & Alerting
-
-🔗 https://github.com/itamarsb/production-like-aws-observability-stack
+| Project | Description |
+|----------|-------------|
+| API Engineering Lab | Production-oriented API Engineering using FastAPI, OpenAPI, Authentication, Testing, Observability and Performance Analysis |
+| Observability Engineering Framework | Open-source observability framework developed as part of my Computer Engineering Capstone Project |
+| Production-Like AWS Observability Stack | AWS-based cloud environment with observability, monitoring and telemetry |
+| Zabbix Linux Network Server Monitoring Lab | Infrastructure monitoring using Linux, Zabbix and networking concepts |
+| AWS Cloud Engineering Lab | Hands-on AWS learning repository covering cloud infrastructure and services |
 
 ---
 
