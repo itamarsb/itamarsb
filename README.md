@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Itamar de Sá Britto Júnior
 
-### Cloud Infrastructure | Observability Engineering | DevOps | SRE | Linux | AWS Certified
+### Cloud Infrastructure | API Engineering | Observability | DevOps | SRE | Linux | AWS Certified
 
 [English](#english) | [Português](#português) | [Español](#español)
 
