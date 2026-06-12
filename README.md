@@ -293,7 +293,21 @@ Objectives:
 
 ---
 
+## Core Areas
 
+### Cloud Engineering
+AWS • Linux • Networking • Infrastructure
+
+### API Engineering
+FastAPI • REST APIs • OpenAPI • Authentication • Testing
+
+### Observability
+OpenTelemetry • Prometheus • Grafana • Loki • Tempo
+
+### Reliability Engineering
+SLI • SLO • Alerting • Incident Analysis • Performance Testing
+
+---
 
 # 📫 Connect With Me
 
