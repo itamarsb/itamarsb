@@ -134,41 +134,6 @@ Trabajo principalmente con AWS, Linux, Prometheus, Grafana, OpenTelemetry, Terra
 
 ---
 
-## Open Source Observability Framework
-
-Computer Engineering Final Project focused on the development of a practical observability framework using Open Source technologies.
-
-Topics:
-
-* Metrics
-* Logs
-* Traces
-* Dashboards
-* Alerting
-* Performance Testing
-* Reliability Engineering
-
-🔗 https://github.com/itamarsb/Observability-Engineering-Framework
-
----
-
-## Zabbix Linux Network Server Monitoring Lab
-
-Hands-on monitoring laboratory focused on Linux administration, network monitoring and operational observability.
-
-Topics:
-
-* Linux Monitoring
-* Zabbix
-* Grafana
-* SNMP
-* Dashboards
-* Alerts
-
-🔗 https://github.com/itamarsb/zabbix-linux-network-server-monitoring-lab
-
----
-
 # 🛠️ Technology Stack
 
 ## Cloud
