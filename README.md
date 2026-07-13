@@ -2,6 +2,9 @@
 
 ### Software Engineer specializing in Cloud, Observability and Platform Engineering
 
+Building production-inspired projects that combine software engineering,
+cloud infrastructure, observability and site reliability engineering.
+
 ---
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
