@@ -81,7 +81,6 @@ automation, testing, telemetry, monitoring and reliability engineering.
 * Open Source Technologies
 
 ---
----
 
 ## Featured Projects
 
