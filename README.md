@@ -53,10 +53,9 @@ I am particularly interested in designing observable, resilient and scalable sys
 
 ### Certifications
 
-* AWS Certified Cloud Practitioner
-* Preparing for AWS Solutions Architect Associate
-* Preparing for AWS Developer Associate
-* Preparing for Linux Essentials
+- **AWS Certified Cloud Practitioner**
+- Currently preparing for **AWS Solutions Architect – Associate**
+- Studying Linux administration, cloud architecture and modern application development
 
 ### Main Areas of Interest
 
