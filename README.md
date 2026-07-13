@@ -42,14 +42,25 @@ cloud infrastructure, observability and site reliability engineering.
 
 ---
 
+## About Me
 
-Computer Engineering undergraduate in the final stage of graduation, bringing more than 20 years of professional experience in software development, requirements analysis, project management and operations within critical infrastructure environments in the Brazilian electric power sector.
+Computer Engineering undergraduate in the final stage of graduation, with more
+than 20 years of professional experience across software development, requirements
+analysis, project management and technology operations in critical infrastructure
+environments within the Brazilian electric power sector.
 
-Currently focused on Cloud Computing, Observability Engineering, DevOps and Site Reliability Engineering (SRE), building practical labs and portfolio projects involving monitoring, telemetry, infrastructure automation and system reliability.
+My background includes the development and maintenance of web applications and
+corporate intranets, working across the complete solution lifecycle—from requirements,
+interface design and application development to databases, web servers, deployment,
+user support and production operations.
 
-My work emphasizes AWS, Linux, Prometheus, Grafana, OpenTelemetry, Terraform, Docker, Kubernetes, CI/CD, Infrastructure as Code and production-like environments.
+I am currently modernizing this experience through JavaScript, TypeScript, Node.js,
+Python and API engineering, while expanding my specialization in AWS, Linux, DevOps,
+Site Reliability Engineering and Observability.
 
-I am particularly interested in designing observable, resilient and scalable systems using open-source technologies and modern cloud-native practices.
+I build practical projects that integrate software development, infrastructure
+automation, testing, telemetry, monitoring and reliability engineering.
+
 
 ### Certifications
 
