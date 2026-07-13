@@ -137,10 +137,14 @@ automation, testing, telemetry, monitoring and reliability engineering.
 
 ## Development
 
+* HTML5
+* CSS3
 * Python
 * JavaScript
+* NodeJS
 * FastAPI
 * PostgreSQL
+* Oracle
 
 ---
 
