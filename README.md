@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Itamar de Sá Britto Júnior
 
-### Software, Cloud & Observability Engineer | Full Stack Development | DevOps | SRE | Linux | AWS Certified
+### Software Engineer specializing in Cloud, Observability and Platform Engineering
 
 ---
 
