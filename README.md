@@ -2,8 +2,6 @@
 
 ### Software, Cloud & Observability Engineer | Full Stack Development | DevOps | SRE | Linux | AWS Certified
 
-[English](#english) | [Português](#português) | [Español](#español)
-
 ---
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
@@ -41,7 +39,6 @@
 
 ---
 
-# English
 
 Computer Engineering undergraduate in the final stage of graduation, bringing more than 20 years of professional experience in software development, requirements analysis, project management and operations within critical infrastructure environments in the Brazilian electric power sector.
 
@@ -70,63 +67,6 @@ I am particularly interested in designing observable, resilient and scalable sys
 * Open Source Technologies
 
 ---
-
-# Português
-
-Graduando em Engenharia de Computação em fase final de formação, com mais de 20 anos de experiência profissional em desenvolvimento de software, análise de requisitos, gestão de projetos e operações em ambientes críticos do setor elétrico brasileiro.
-
-Atualmente concentro minha evolução profissional nas áreas de Cloud Computing, Engenharia de Observabilidade, DevOps e Site Reliability Engineering (SRE), desenvolvendo laboratórios práticos e projetos de portfólio relacionados a monitoramento, telemetria, automação de infraestrutura e confiabilidade de sistemas.
-
-Meu foco está na utilização de AWS, Linux, Prometheus, Grafana, OpenTelemetry, Terraform, Docker, Kubernetes, CI/CD e tecnologias Open Source para construção de ambientes observáveis, resilientes e escaláveis.
-
-### Certificações
-
-* AWS Certified Cloud Practitioner
-* Em preparação para AWS Solutions Architect Associate
-* Em preparação para AWS Developer Associate
-* Em preparação para Linux Essentials
-
-### Principais Áreas de Interesse
-
-* Infraestrutura Cloud
-* Engenharia de Observabilidade
-* Site Reliability Engineering (SRE)
-* DevOps & Platform Engineering
-* Administração Linux
-* Monitoramento de Infraestrutura
-* Telemetria e Distributed Tracing
-* Infrastructure as Code (Terraform)
-* Tecnologias Open Source
-
----
-
-# Español
-
-Estudiante de Ingeniería en Computación en la etapa final de su formación, con más de 20 años de experiencia profesional en desarrollo de software, análisis de requisitos, gestión de proyectos y operaciones en infraestructuras críticas del sector eléctrico brasileño.
-
-Actualmente enfocado en Cloud Computing, Ingeniería de Observabilidad, DevOps y Site Reliability Engineering (SRE), desarrollando laboratorios prácticos y proyectos relacionados con monitoreo, telemetría, automatización de infraestructura y confiabilidad de sistemas.
-
-Trabajo principalmente con AWS, Linux, Prometheus, Grafana, OpenTelemetry, Terraform, Docker, Kubernetes, CI/CD y tecnologías Open Source.
-
-### Certificaciones
-
-* AWS Certified Cloud Practitioner
-* Preparación para AWS Solutions Architect Associate
-* Preparación para AWS Developer Associate
-* Preparación para Linux Essentials
-
-### Principales Áreas de Interés
-
-* Infraestructura Cloud
-* Ingeniería de Observabilidad
-* Site Reliability Engineering (SRE)
-* DevOps & Platform Engineering
-* Administración Linux
-* Monitoreo de Infraestructura
-* Telemetría y Distributed Tracing
-* Infrastructure as Code (Terraform)
-* Tecnologías Open Source
-
 ---
 
 ## Featured Projects
