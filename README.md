@@ -74,11 +74,23 @@ automation, testing, telemetry, monitoring and reliability engineering.
 * Observability Engineering
 * Site Reliability Engineering (SRE)
 * DevOps & Platform Engineering
+* API Development
 * Linux Administration
 * Infrastructure Monitoring
 * Telemetry & Distributed Tracing
 * Infrastructure as Code (Terraform)
 * Open Source Technologies
+
+Throughout my career in the Brazilian electric power sector, my official
+positions were focused on commercial operations, administration and regional
+management.
+
+Alongside those responsibilities, I designed, developed and maintained internal
+web applications, databases and business automation tools used by regional
+offices to improve operational efficiency and decision making.
+
+That experience naturally evolved into my current focus on Software Engineering,
+Cloud Computing, DevOps, Site Reliability Engineering (SRE) and Observability.
 
 ---
 
