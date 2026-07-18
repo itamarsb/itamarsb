@@ -106,7 +106,7 @@ Cloud Computing, DevOps, Site Reliability Engineering (SRE) and Observability.
 
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
 ## Cloud
 
@@ -160,7 +160,7 @@ Cloud Computing, DevOps, Site Reliability Engineering (SRE) and Observability.
 
 ---
 
-# 🎓 Current Academic Project
+# Current Academic Project
 
 ### Open Source Observability Framework
 
@@ -192,18 +192,18 @@ Objectives:
 
 # Current Engineering Focus
 
-☁️ Advanced AWS Architecture
-☸️ Kubernetes & Platform Engineering
-📊 Observability Engineering
-🔧 Site Reliability Engineering (SRE)
-🚀 Infrastructure Automation
-🔌 API Engineering
-📈 Performance Engineering
-🐧 Linux Administration
+* Advanced AWS Architecture
+* Kubernetes & Platform Engineering
+* Observability Engineering
+* Site Reliability Engineering (SRE)
+* Infrastructure Automation
+* API Engineering
+* Performance Engineering
+* Linux Administration
 
 ---
 
-# 🔬 Secondary Technical Interests
+# Secondary Technical Interests
 
 * Embedded Systems
 * ESP32
