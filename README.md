@@ -223,17 +223,23 @@ Objectives:
 
 ## Core Areas
 
-### Cloud Engineering
-AWS • Linux • Networking • Infrastructure
+☁️ Cloud Engineering
+AWS • Linux • Networking • Infrastructure • IAM
 
-### API Engineering
+💻 Software Engineering
+HTML • CSS • JavaScript • TypeScript • SQL
+
+🔌 API Engineering
 FastAPI • REST APIs • OpenAPI • Authentication • Testing
 
-### Observability
-OpenTelemetry • Prometheus • Grafana • Loki • Tempo
+🗄️ Database Engineering
+PostgreSQL • Oracle • SQL
 
-### Reliability Engineering
-SLI • SLO • Alerting • Incident Analysis • Performance Testing
+📊 Observability Engineering
+Metrics • Logs • Traces • OpenTelemetry • Prometheus • Grafana
+
+⚙️ Site Reliability Engineering (SRE)
+SLIs • SLOs • Alerting • Incident Response • Performance Testing
 
 ---
 
