@@ -190,19 +190,16 @@ Objectives:
 
 ---
 
-# 🌱 Current Learning Goals
+# Current Engineering Focus
 
-* Advanced AWS Architecture
-* Cloud Engineering
-* API Engineering
-* Kubernetes
-* Platform Engineering
-* Observability Engineering
-* Site Reliability Engineering
-* Infrastructure Automation
-* Linux Administration
-* Advanced Telemetry, Monitoring and Alerting
-* Performance Testing (K6)
+☁️ Advanced AWS Architecture
+☸️ Kubernetes & Platform Engineering
+📊 Observability Engineering
+🔧 Site Reliability Engineering (SRE)
+🚀 Infrastructure Automation
+🔌 API Engineering
+📈 Performance Engineering
+🐧 Linux Administration
 
 ---
 
