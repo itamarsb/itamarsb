@@ -226,19 +226,19 @@ Objectives:
 ### Cloud Engineering
 AWS • Linux • Networking • Infrastructure • IAM
 
-###Software Engineering
+### Software Engineering
 HTML • CSS • JavaScript • TypeScript • SQL
 
-###API Engineering
+### API Engineering
 FastAPI • REST APIs • OpenAPI • Authentication • Testing
 
-###Database Engineering
+### Database Engineering
 PostgreSQL • Oracle • SQL
 
-###Observability Engineering
+### Observability Engineering
 Metrics • Logs • Traces • OpenTelemetry • Prometheus • Grafana
 
-###Site Reliability Engineering (SRE)
+### Site Reliability Engineering (SRE)
 SLIs • SLOs • Alerting • Incident Response • Performance Testing
 
 ---
