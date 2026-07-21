@@ -206,6 +206,7 @@ Objectives:
 # Secondary Technical Interests
 
 * Embedded Systems
+* C/C++
 * ESP32
 * STM32
 * PIC Microcontrollers
