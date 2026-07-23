@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Itamar de Sá Britto Júnior
 
-### Software Engineer specializing in Cloud, Observability and Platform Engineering
+### Cloud Engineer | DevOps | Observability | Platform Engineering | AWS | Linux
 
 Building production-inspired projects that combine software engineering,
 cloud infrastructure, observability and site reliability engineering.
