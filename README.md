@@ -1,180 +1,352 @@
-# Hi, I'm Itamar de Sá Britto Júnior 👋
+<!-- ========================================================= -->
+<!-- GitHub Profile README                                     -->
+<!-- Author: Itamar de Sá Britto Júnior                        -->
+<!-- ========================================================= -->
 
-### Cloud Engineer • DevOps • Site Reliability Engineering
+<h1 align="center">
+Hi, I'm Itamar de Sá Britto Júnior 👋
+</h1>
 
-Building public engineering laboratories focused on AWS, API Engineering, Observability and Infrastructure as Code.
+<h3 align="center">
+Cloud Engineer • DevOps • Site Reliability Engineering
+</h3>
 
----
+<p align="center">
+Building public engineering laboratories focused on AWS, API Engineering,
+Observability and Infrastructure as Code.
+</p>
 
-> *"I believe engineering is a continuous journey toward excellence. Every system should be built with quality, documented with clarity, and continuously improved so others can learn, reproduce, and build something even better."*
+<p align="center">
 
----
+<a href="https://github.com/itamarsb">
+<img src="https://img.shields.io/badge/GitHub-itamarsb-181717?style=for-the-badge&logo=github">
+</a>
 
-## 👨‍💻 About Me
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
-I am building a public portfolio focused on Cloud Engineering, DevOps, Site Reliability Engineering (SRE), API Engineering and Observability.
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail">
+</a>
 
-My goal is not only to develop technical projects, but also to create well-structured laboratories that demonstrate engineering best practices through clear documentation, reproducible environments and continuous improvement.
-
-Every repository is designed to help students, recruiters, hiring managers and engineers understand not only *what* was built, but also *why* it was built that way.
-
----
-
-## ⚙️ Engineering Principles
-
-Every repository published here follows the same engineering principles:
-
-- 🎯 Excellence
-- 🔄 Continuous Improvement
-- ✅ Quality First
-- 📝 Documentation as an Engineering Practice
-- 🧩 Reproducible Laboratories
-- 🤝 Knowledge Sharing
-
----
-
-## ☁️ Core Areas
-
-| Area | Focus |
-|------|------|
-| ☁️ Cloud Engineering | AWS, Linux, Infrastructure |
-| ⚙️ DevOps | Git, CI/CD, Terraform |
-| 📡 Observability | OpenTelemetry, Prometheus, Grafana |
-| 📈 Site Reliability Engineering | Monitoring, Reliability, Incident Response |
-| 🔗 API Engineering | Python, FastAPI, REST APIs, OpenAPI |
-| 🐧 Linux | Ubuntu Server, Bash |
+</p>
 
 ---
 
-# 🚀 Featured Projects
+> **"I believe engineering is a continuous journey toward excellence. Every system should be built with quality, documented with clarity, and continuously improved so others can learn, reproduce, and build something even better."**
+
+---
+
+# Engineering Portfolio
+
+This GitHub is more than a collection of repositories.
+
+It is a continuously evolving engineering portfolio designed to bridge the gap between theory and real-world implementation through practical laboratories, technical documentation and production-inspired engineering practices.
+
+Every repository follows the same philosophy:
+
+- Build with quality.
+- Document with clarity.
+- Improve continuously.
+- Share knowledge.
+- Learn by building.
+
+---
+
+# Mission
+
+Build practical engineering laboratories that bridge the gap between theory and real-world implementation through quality, documentation and continuous improvement.
+
+---
+
+# Vision
+
+Create one of the most complete public engineering laboratory collections focused on:
+
+- Cloud Engineering
+- DevOps
+- Site Reliability Engineering
+- API Engineering
+- Observability
+
+---
+
+# Engineering Principles
+
+| Principle | Description |
+|------------|-------------|
+| 🎯 Excellence | Pursue high-quality engineering in every project. |
+| 🔄 Continuous Improvement | Every repository evolves through iterative refinements. |
+| ✅ Quality First | Build reliable solutions before adding complexity. |
+| 📝 Documentation | Documentation is part of engineering, not an afterthought. |
+| 🔁 Reproducibility | Every laboratory should be easy to reproduce. |
+| 🤝 Knowledge Sharing | Learn, teach and contribute back to the community. |
+
+---
+
+# Engineering Portfolio
+
+| Repository | Description | Status |
+|------------|-------------|--------|
+| ☁️ AWS Cloud Engineering Lab | Hands-on AWS laboratories built with production-inspired practices | 🟢 Active |
+| ⚡ API Engineering Lab | REST API laboratories developed with Python and FastAPI | 🟢 Active |
+| 📈 Observability Engineering Framework | Monitoring, telemetry and distributed observability | 🟡 In Progress |
+| 🔬 Electronics & Embedded Systems Lab | IoT, telemetry and embedded engineering | 🔵 Planned |
+
+---
+
+# Core Areas
+
+| Domain | Focus |
+|---------|-------|
+| ☁️ Cloud Engineering | AWS |
+| ⚙️ DevOps | Git · Terraform · CI/CD |
+| 📈 Site Reliability Engineering | Monitoring · Reliability · Incident Response |
+| 📡 Observability | OpenTelemetry · Prometheus · Grafana |
+| 🔗 API Engineering | Python · FastAPI · REST APIs |
+| 🐧 Linux | Ubuntu Server · Bash |
+
+---
+
+# Featured Projects
 
 ## ☁️ AWS Cloud Engineering Lab
 
-Hands-on AWS laboratories designed to simulate real-world cloud environments while following AWS best practices.
+Hands-on AWS laboratories designed to demonstrate real-world cloud engineering practices.
 
-**Topics**
+### Topics
 
 - Amazon EC2
 - IAM
 - Systems Manager
 - CloudWatch
 - VPC
-- Terraform
+- Networking
 - Security
+- Terraform
 - Cost Optimization
 
 ---
 
 ## ⚡ API Engineering Lab
 
-A collection of practical laboratories focused on designing, building and testing modern REST APIs.
+Practical REST API laboratories built using modern software engineering practices.
 
-**Topics**
+### Topics
 
 - Python
+
 - FastAPI
+
 - REST APIs
+
 - OpenAPI
+
 - Swagger UI
+
 - Postman
+
 - Testing
 
 ---
 
 ## 📈 Observability Engineering
 
-Building practical environments focused on monitoring, telemetry and distributed observability.
+Building complete environments focused on modern monitoring and observability.
 
-**Topics**
+### Topics
 
 - OpenTelemetry
+
 - Prometheus
+
 - Grafana
+
 - Loki
+
 - Tempo
+
 - Alertmanager
 
 ---
 
-## 🔬 Future Projects
+## 🔬 Electronics & Embedded Systems Laboratory
 
-Planned future repositories include:
+Future engineering laboratory focused on:
 
-- Electronics & Embedded Systems Laboratory
-- Weather Station
+- ESP32
+
 - Industrial Telemetry
-- IoT Monitoring
-- Production-like Observability Environments
+
+- Weather Station
+
+- IoT
+
+- Embedded Systems
+
+- MQTT
 
 ---
 
-# 🌍 Open Source Contributions
+# Open Source Contributions
 
-I actively contribute to public repositories by improving:
+I enjoy contributing to public repositories by improving:
 
 - Documentation
-- README structure
-- Markdown
-- Mermaid diagrams
-- Project organization
 
-I believe that documentation is one of the most valuable contributions an engineer can make to the open-source community.
+- README redesign
+
+- Markdown
+
+- Mermaid diagrams
+
+- Repository organization
+
+I believe documentation is one of the most valuable contributions an engineer can make to the open-source community.
 
 ---
 
-# 🏆 Certifications
+# Certifications
+
+## Achieved
 
 - AWS Certified Cloud Practitioner
+
 - Linux Essentials
 
-Currently preparing for:
+---
+
+## Currently Preparing
 
 - AWS Certified AI Practitioner
+
 - AWS Certified Solutions Architect – Associate
 
 ---
 
-# 📚 Current Learning
+# Current Learning
 
-Current areas of study include:
+My current engineering roadmap includes:
 
 - Terraform
+
 - Kubernetes
+
 - Docker
+
 - OpenTelemetry
+
 - FastAPI
+
 - Python
+
 - AWS
+
+- Linux
+
+- DevOps
+
 - Site Reliability Engineering
 
 ---
 
-# 📊 GitHub Analytics
+# Why These Laboratories?
 
-<!-- GitHub Readme Stats -->
+These repositories were created to transform theory into practical engineering experience.
 
-<!-- Streak Stats -->
+Every laboratory is designed to be:
 
-<!-- Activity Graph -->
+- Beginner-friendly
 
----
+- Production-inspired
 
-# 📫 Contact
+- Fully documented
 
-- 📍 Rio Grande, RS — Brazil
-- 💼 LinkedIn
-- 📧 Email
+- Reproducible
 
----
-
-## ⭐ Repository Philosophy
-
-Every project published here is built with one objective:
-
-> **Create practical, high-quality engineering laboratories that help people learn, reproduce and continuously improve real-world solutions.**
+- Continuously improved
 
 ---
 
-Thank you for visiting my profile.
+# GitHub Analytics
 
-If my projects help you learn something new, then they have already achieved their purpose.
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itamarsb&show_icons=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itamarsb&layout=compact">
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=itamarsb">
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itamarsb">
+
+</p>
+
+---
+
+# Current Focus
+
+My current priorities are:
+
+✅ Cloud Engineering
+
+✅ Infrastructure as Code
+
+✅ API Engineering
+
+✅ Site Reliability Engineering
+
+✅ Observability
+
+✅ Open Source
+
+---
+
+# Engineering Philosophy
+
+Good engineering is not measured by the complexity of a solution.
+
+It is measured by how understandable, maintainable, reproducible and useful that solution becomes for other engineers.
+
+I strive to build projects that not only solve technical problems but also help people learn, reproduce and continuously improve them.
+
+---
+
+# Contact
+
+📍 Rio Grande — RS — Brazil
+
+💼 LinkedIn
+
+📧 Email
+
+🐙 GitHub
+
+---
+
+# Thank You
+
+Thank you for visiting my GitHub profile.
+
+I hope these repositories help you learn something new, inspire your own projects and demonstrate how engineering, documentation and continuous improvement can work together.
+
+---
+
+<p align="center">
+
+### Build with Quality.
+
+### Document with Clarity.
+
+### Improve Continuously.
+
+</p>
