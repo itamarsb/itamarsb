@@ -83,15 +83,17 @@ Cloud Computing, DevOps, Site Reliability Engineering (SRE) and Observability.
 
 ---
 
+
 ## Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| API Engineering Lab | Production-oriented API Engineering using FastAPI, OpenAPI, Authentication, Testing, Observability and Performance Analysis |
-| Observability Engineering Framework | Open-source observability framework developed as part of my Computer Engineering Capstone Project |
-| Production-Like AWS Observability Stack | AWS-based cloud environment with observability, monitoring and telemetry |
-| Zabbix Linux Network Server Monitoring Lab | Infrastructure monitoring using Linux, Zabbix and networking concepts |
-| AWS Cloud Engineering Lab | Hands-on AWS learning repository covering cloud infrastructure and services |
+| Project | Engineering Focus | Description |
+|---|---|---|
+| [API Engineering Lab](https://github.com/itamarsb/api-engineering-lab) | Software · APIs · Testing | Hands-on laboratories for building, documenting and testing REST APIs with Python, FastAPI, OpenAPI, Postman and automated tests. |
+| [AWS Cloud Engineering Lab](https://github.com/itamarsb/aws-cloud-engineering-lab) | Cloud · Linux · IaC | Practical AWS laboratories covering infrastructure, security, monitoring, networking and automation with Terraform. |
+| [Observability Engineering Framework](https://github.com/itamarsb/Observability-Engineering-Framework) | Observability · SRE · Performance | Open-source observability framework developed as my Computer Engineering capstone project using metrics, logs, traces and performance testing. |
+| [Production-Like AWS Observability Stack](https://github.com/itamarsb/production-like-aws-observability-stack) | AWS · Telemetry · Reliability | Production-inspired AWS environment integrating cloud infrastructure, monitoring, telemetry and reliability practices. |
+| [Zabbix Linux Network Server Monitoring Lab](https://github.com/itamarsb/zabbix-linux-network-server-monitoring-lab) | Linux · Networks · Monitoring | Infrastructure monitoring laboratory combining Linux administration, networking concepts and Zabbix. |
+
 
 ---
 
