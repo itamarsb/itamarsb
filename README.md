@@ -232,12 +232,22 @@ SLIs • SLOs • Alerting • Incident Response • Performance Testing
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect
 
-LinkedIn:
+<p align="left">
 
-[www.linkedin.com/in/itamar-de-sa-britto-jr](http://www.linkedin.com/in/itamar-de-sa-britto-jr)
+<a href="https://github.com/itamarsb">
+<img src="https://img.shields.io/badge/GitHub-itamarsb-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-GitHub:
+<a href="https://www.linkedin.com/in/itamar-de-sa-britto-jr">
+<img src="https://img.shields.io/badge/LinkedIn-itamar--de--sa--britto--jr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-https://github.com/itamarsb
+<a href="mailto:itamarsbt.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+📍 **Rio Grande, RS — Brazil**
