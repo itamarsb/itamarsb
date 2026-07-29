@@ -21,11 +21,9 @@ Observability and Infrastructure as Code.
 <a href="https://github.com/itamarsb">
 <img src="https://img.shields.io/badge/GitHub-itamarsb-181717?style=for-the-badge&logo=github">
 </a>
-
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
-
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail">
 </a>
