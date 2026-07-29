@@ -154,36 +154,6 @@ Cloud Computing, DevOps, Site Reliability Engineering (SRE) and Observability.
 
 ---
 
-# Current Academic Project
-
-### Open Source Observability Framework
-
-Development of a practical framework for monitoring and observability using Open Source technologies.
-
-Components:
-
-* FastAPI
-* OpenTelemetry
-* Prometheus
-* Grafana
-* Loki
-* Tempo
-* Alertmanager
-* K6
-* Linux Server
-* Stress-NG
-
-Objectives:
-
-* Monitoring
-* Telemetry
-* Distributed Tracing
-* Reliability Analysis
-* Performance Testing
-* Incident Investigation
-
----
-
 # Current Engineering Focus
 
 * Advanced AWS Architecture
