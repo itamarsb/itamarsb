@@ -209,8 +209,8 @@ SLIs • SLOs • Alerting • Incident Response • Performance Testing
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=itamarsb&theme=cobalt" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=itamarsb&show_icons=true&theme=cobalt" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=itamarsb&theme=cobalt" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=itamarsb&show_icons=true&theme=cobalt" width="50%">
 </div>
 
 <div align="center">
