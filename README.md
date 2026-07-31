@@ -203,24 +203,3 @@ Metrics • Logs • Traces • OpenTelemetry • Prometheus • Grafana
 ### Site Reliability Engineering (SRE)
 SLIs • SLOs • Alerting • Incident Response • Performance Testing
 
----
-
-## 📫 Connect
-
-<p align="left">
-
-<a href="https://github.com/itamarsb">
-<img src="https://img.shields.io/badge/GitHub-itamarsb-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/itamar-de-sa-britto-jr">
-<img src="https://img.shields.io/badge/LinkedIn-itamar--de--sa--britto--jr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:itamarsbt.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
-📍 **Rio Grande, RS — Brazil**
