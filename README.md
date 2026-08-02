@@ -208,14 +208,15 @@ SLIs • SLOs • Alerting • Incident Response • Performance Testing
 
 ### Arbiter
 
-Open-source observability platform.
+Open-source observability platform focused on telemetry and system reliability.
 
+**Contribution**
 - High-level architecture documentation
 - Mermaid architecture diagram
-- Merged Pull Request (#162)
+- Pull Request accepted and merged
 
-🔗 Project:
+Project:
 https://github.com/tylerreckart/arbiter
 
-🔗 Contribution:
+Merged Pull Request:
 https://github.com/tylerreckart/arbiter/pull/162
