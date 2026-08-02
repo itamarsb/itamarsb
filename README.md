@@ -203,3 +203,19 @@ Metrics • Logs • Traces • OpenTelemetry • Prometheus • Grafana
 ### Site Reliability Engineering (SRE)
 SLIs • SLOs • Alerting • Incident Response • Performance Testing
 
+
+## Open Source Contributions
+
+### Arbiter
+
+Open-source observability platform.
+
+- High-level architecture documentation
+- Mermaid architecture diagram
+- Merged Pull Request (#162)
+
+🔗 Project:
+https://github.com/tylerreckart/arbiter
+
+🔗 Contribution:
+https://github.com/tylerreckart/arbiter/pull/162
