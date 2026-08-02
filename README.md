@@ -208,7 +208,7 @@ SLIs • SLOs • Alerting • Incident Response • Performance Testing
 
 ### Arbiter
 
-Open-source observability platform focused on telemetry and system reliability.
+Merged contribution to the Arbiter open source project.
 
 **Contribution**
 - High-level architecture documentation
