@@ -90,15 +90,17 @@ Cloud Computing, DevOps, Site Reliability Engineering (SRE) and Observability.
 ## Featured Projects
 
 | Project | Engineering Focus | Description |
-|---|---|---|
-| [API Engineering Lab](https://github.com/itamarsb/api-engineering-lab) | Software · APIs · Testing | Hands-on laboratories for building, documenting and testing REST APIs with Python, FastAPI, OpenAPI, Postman and automated tests. |
-| [AWS Cloud Engineering Lab](https://github.com/itamarsb/aws-cloud-engineering-lab) | Cloud · Linux · IaC | Practical AWS laboratories covering infrastructure, security, monitoring, networking and automation with Terraform. |
-| [Observability Engineering Framework](https://github.com/itamarsb/Observability-Engineering-Framework) | Observability · SRE · Performance | Open-source observability framework developed as my Computer Engineering capstone project using metrics, logs, traces and performance testing. |
-| [Production-Like AWS Observability Stack](https://github.com/itamarsb/production-like-aws-observability-stack) | AWS · Telemetry · Reliability | Production-inspired AWS environment integrating cloud infrastructure, monitoring, telemetry and reliability practices. |
-| [Zabbix Linux Network Server Monitoring Lab](https://github.com/itamarsb/zabbix-linux-network-server-monitoring-lab) | Linux · Networks · Monitoring | Infrastructure monitoring laboratory combining Linux administration, networking concepts and Zabbix. |
+|---------|-------------------|-------------|
+| [Backend Engineering Lab](https://github.com/itamarsb/python-backend-engineering-lab) | Python · FastAPI · PostgreSQL · Docker | Hands-on backend engineering laboratories covering REST APIs, SQLAlchemy, Alembic, Docker, automated testing, CI/CD and AWS deployment. |
+| [AWS Cloud Engineering Lab](https://github.com/itamarsb/aws-cloud-engineering-lab) | AWS · Linux · Terraform | Practical AWS laboratories covering cloud infrastructure, networking, IAM, monitoring, automation and Infrastructure as Code (Terraform). |
+| [Cloud Infrastructure Operations Lab](https://github.com/itamarsb/cloud-infrastructure-operations-lab) | Cloud Operations · Linux · Docker | Production-inspired AWS laboratories for junior Cloud Engineers covering Linux administration, troubleshooting, Docker and operational best practices. |
+| [Observability Engineering Framework](https://github.com/itamarsb/Observability-Engineering-Framework) | Observability · OpenTelemetry · SRE | Undergraduate Computer Engineering capstone project focused on building an open-source observability framework using metrics, logs, traces and performance testing. |
+| [Production-Like AWS Observability Stack](https://github.com/itamarsb/production-like-aws-observability-stack) | AWS · Monitoring · Reliability | Production-inspired AWS environment integrating infrastructure, observability, telemetry and reliability engineering practices. |
+| [Zabbix Linux Network Server Monitoring Lab](https://github.com/itamarsb/zabbix-linux-network-server-monitoring-lab) | Linux · Networking · Monitoring | Practical monitoring laboratories covering Linux administration, networking fundamentals, SNMP, Zabbix and Grafana. |
 
 
 ---
+
 
 # Technology Stack
 
