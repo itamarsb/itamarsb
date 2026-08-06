@@ -107,18 +107,6 @@ Git · GitHub · GitHub Actions · CI/CD · Technical Documentation · Troublesh
 
 ---
 
-## Open Source & Documentation
-
-I am also developing experience through open-source collaboration, especially in areas where I can combine technical analysis and clear communication:
-
-- README and repository documentation improvements;
-- High-level architecture diagrams using Mermaid;
-- Project structure analysis;
-- Installation and environment setup documentation;
-- Technical writing for beginner-friendly projects.
-
----
-
 ## Secondary Technical Interests
 
 Embedded Systems · C/C++ · ESP32 · IoT · Telemetry Systems · Sensors · RF Communications · Aviation Electronics
