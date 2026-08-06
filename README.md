@@ -51,12 +51,12 @@ My goal is to demonstrate not only technical knowledge, but also the ability to 
 
 ## Current Stage
 
-- Completing my undergraduate degree in **Computer Engineering**
-- Developing practical repositories for **Cloud, Backend, DevOps and Observability** roles
-- Preparing for the **AWS Certified Solutions Architect – Associate** certification
-- Expanding my knowledge of **Terraform, Linux administration, APIs, Docker and CI/CD**
-- Developing my capstone project around an **open-source observability framework**
-- Contributing to open-source projects through documentation improvements and architecture diagrams
+- Completing my undergraduate degree in **Computer Engineering**;
+- Developing practical repositories for **Cloud, Backend, DevOps and Observability** roles;
+- Preparing for the **AWS Certified Solutions Architect – Associate** certification;
+- Expanding my knowledge of **Terraform, Linux administration, APIs, Docker and CI/CD**;
+- Developing my capstone project around an **open-source observability framework**;
+- Contributing to open-source projects through documentation improvements and architecture diagrams.
 
 ---
 
@@ -99,11 +99,11 @@ Git · GitHub · GitHub Actions · CI/CD · Technical Documentation · Troublesh
 
 ## Certifications & Education
 
-- **Computer Engineering Undergraduate** — final stage
-- **AWS Certified Cloud Practitioner**
-- **Linux Essentials**
-- Preparing for **AWS Certified Solutions Architect – Associate**
-- Future study path: **Terraform, Linux, Kubernetes and advanced AWS architecture**
+- **Computer Engineering Undergraduate** — final stage;
+- **AWS Certified Cloud Practitioner**;
+- Preparing for **Linux Essentials**;
+- Preparing for **AWS Certified Solutions Architect – Associate**;
+- Future study path: **Terraform, Linux, Kubernetes and advanced AWS architecture**.
 
 ---
 
@@ -111,11 +111,11 @@ Git · GitHub · GitHub Actions · CI/CD · Technical Documentation · Troublesh
 
 I am also developing experience through open-source collaboration, especially in areas where I can combine technical analysis and clear communication:
 
-- README and repository documentation improvements
-- High-level architecture diagrams using Mermaid
-- Project structure analysis
-- Installation and environment setup documentation
-- Technical writing for beginner-friendly projects
+- README and repository documentation improvements;
+- High-level architecture diagrams using Mermaid;
+- Project structure analysis;
+- Installation and environment setup documentation;
+- Technical writing for beginner-friendly projects.
 
 ---
 
@@ -129,12 +129,12 @@ Embedded Systems · C/C++ · ESP32 · IoT · Telemetry Systems · Sensors · RF 
 
 I am currently seeking opportunities where I can begin or consolidate my transition into technology, particularly in roles such as:
 
-- Junior Cloud Engineer or Cloud Analyst
-- Junior Backend Developer
-- Junior DevOps Engineer
-- Infrastructure or Linux Operations Analyst
-- NOC or Monitoring Analyst
-- Junior Observability or SRE-related role
+- Junior Cloud Engineer or Cloud Analyst;
+- Junior Backend Developer;
+- Junior DevOps Engineer;
+- Infrastructure or Linux Operations Analyst;
+- NOC or Monitoring Analyst;
+- Junior Observability or SRE-related role.
 
 ---
 
