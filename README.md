@@ -139,7 +139,7 @@ I am currently seeking opportunities where I can begin or consolidate my transit
 ---
 
 
-## 🌍 Visitors
+## 📈 Profile Metrics
 
 <p align="center">
   <a href="https://info.flagcounter.com/hI9E">
