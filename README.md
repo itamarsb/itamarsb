@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Itamar de Sá Britto Júnior
 
-### Computer Engineering Undergraduate | Cloud, Backend, DevOps & Observability
+### Computer Engineering | Cloud, Backend, DevOps, SRE & Observability
 
 Building practical, portfolio-oriented projects in **AWS, Linux, backend engineering, infrastructure automation, monitoring and reliability**.
 
