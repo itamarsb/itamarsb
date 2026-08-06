@@ -138,6 +138,19 @@ I am currently seeking opportunities where I can begin or consolidate my transit
 
 ---
 
+
+## 🌍 Visitors
+
+<p align="center">
+  <a href="https://info.flagcounter.com/hI9E">
+    <img src="https://s01.flagcounter.com/count/hI9E/bg_FAFAFA/txt_000000/border_CCCCCC/columns_8/maxflags_100/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter">
+  </a>
+</p>
+
+
+
+---
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Itamar_de_Sá_Britto_Júnior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamar-de-s%C3%A1-britto-j%C3%BAnior/)
