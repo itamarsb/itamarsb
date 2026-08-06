@@ -206,19 +206,3 @@ Metrics • Logs • Traces • OpenTelemetry • Prometheus • Grafana
 SLIs • SLOs • Alerting • Incident Response • Performance Testing
 
 
-## Open Source Contributions
-
-### Arbiter
-
-Merged contribution to the Arbiter open source project.
-
-**Contribution**
-- High-level architecture documentation
-- Mermaid architecture diagram
-- Pull Request accepted and merged
-
-Project:
-https://github.com/tylerreckart/arbiter
-
-Merged Pull Request:
-https://github.com/tylerreckart/arbiter/pull/162
