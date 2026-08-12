@@ -116,6 +116,24 @@ Git · GitHub · GitHub Actions · CI/CD · Technical Documentation · Troublesh
 
 Embedded Systems · C/C++ · ESP32 · IoT · Telemetry Systems · Sensors · RF Communications · Aviation Electronics
 
+---
+
+
+# Freelance Services
+
+Available for scoped freelance projects involving:
+
+* Cloud infrastructure and AWS environments;
+* Linux administration and troubleshooting;
+* Infrastructure as Code with Terraform;
+* Monitoring and observability with Prometheus, Grafana and OpenTelemetry;
+* Python automation and API development with FastAPI;
+* PostgreSQL and database-related implementation;
+* Docker environments and application troubleshooting;
+* Technical documentation, architecture diagrams and engineering procedures.
+
+For professional inquiries, please contact me through LinkedIn or the freelance platforms listed below.
+
 
 ---
 
