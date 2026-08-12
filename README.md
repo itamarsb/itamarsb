@@ -37,15 +37,15 @@ Building and delivering practical solutions in cloud infrastructure, automation,
 
 ## About Me
 
-I am currently expanding my professional trajectory into hands-on engineering roles in Cloud, DevOps, Backend and Observability, combining more than two decades of operational and management experience with my Computer Engineering education and a growing portfolio of practical engineering projects.
+I am a Computer Engineering undergraduate in the final stage of my degree, with more than 20 years of professional experience in operations, management, requirements analysis, project delivery and business process improvement within the Brazilian electric power sector.
 
-My professional background was developed over more than 20 years in the Brazilian electric power sector, where I worked in commercial operations, administration, regional management and business process improvement.
+I currently focus my professional development and freelance work on Cloud Computing, DevOps, Observability, Backend/API Engineering and Site Reliability Engineering (SRE), combining hands-on engineering projects with my previous experience in critical operational environments.
 
-Alongside my formal responsibilities, I designed, developed and maintained internal web applications, corporate intranets, databases and automation tools used by regional teams. This experience included requirements analysis, interface design, application development, database work, deployment, user support and production maintenance.
+My technical work includes AWS, Linux, Terraform, Docker, Python, FastAPI, PostgreSQL, Prometheus, Grafana and OpenTelemetry, covering cloud infrastructure, automation, APIs, monitoring, observability, troubleshooting and technical documentation.
 
-I am now consolidating and modernizing this experience through hands-on labs, portfolio projects, and freelance work using **AWS, Linux, Terraform, Python, FastAPI, JavaScript, TypeScript, Node.js, Docker, and monitoring and observability tools**.
+Alongside my previous formal responsibilities, I also designed, developed and maintained internal web applications, corporate intranets, databases and automation tools used by regional teams, including requirements analysis, interface design, application development, deployment, user support and production maintenance.
 
-My goal is to demonstrate not only technical knowledge, but also the ability to document solutions clearly, troubleshoot problems, automate repeatable tasks and build projects that reflect real operational scenarios.
+Today, I continue consolidating and modernizing this experience through freelance engagements, engineering laboratories, open-source collaboration and portfolio projects designed around practical operational scenarios.
 
 ---
 
