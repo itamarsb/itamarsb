@@ -114,18 +114,6 @@ Git · GitHub · GitHub Actions · CI/CD · Technical Documentation · Troublesh
 
 Embedded Systems · C/C++ · ESP32 · IoT · Telemetry Systems · Sensors · RF Communications · Aviation Electronics
 
----
-
-## Professional Goals
-
-I am currently seeking opportunities where I can begin or consolidate my transition into technology, particularly in roles such as:
-
-- Junior Cloud Engineer or Cloud Analyst;
-- Junior Backend Developer;
-- Junior DevOps Engineer;
-- Infrastructure or Linux Operations Analyst;
-- NOC or Monitoring Analyst;
-- Junior Observability or SRE-related role.
 
 ---
 
