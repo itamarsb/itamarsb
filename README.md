@@ -157,6 +157,7 @@ For professional inquiries, please contact me through LinkedIn or the freelance 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Itamar_de_Sá_Britto_Júnior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamar-de-s%C3%A1-britto-j%C3%BAnior/)
 [![GitHub](https://img.shields.io/badge/GitHub-itamarsb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itamarsb)
+[![Upwork](https://img.shields.io/badge/Upwork-Itamar_D.-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d287d3ea5340c218)
 
 ---
 
