@@ -43,7 +43,7 @@ My professional background was developed over more than 20 years in the Brazilia
 
 Alongside my formal responsibilities, I designed, developed and maintained internal web applications, corporate intranets, databases and automation tools used by regional teams. This experience included requirements analysis, interface design, application development, database work, deployment, user support and production maintenance.
 
-I am now consolidating and modernizing this experience through hands-on laboratories and portfolio projects using **AWS, Linux, Terraform, Python, FastAPI, JavaScript, TypeScript, Node.js, Docker, monitoring and observability tools**.
+I am now consolidating and modernizing this experience through hands-on labs, portfolio projects, and freelance work using **AWS, Linux, Terraform, Python, FastAPI, JavaScript, TypeScript, Node.js, Docker, and monitoring and observability tools**.
 
 My goal is to demonstrate not only technical knowledge, but also the ability to document solutions clearly, troubleshoot problems, automate repeatable tasks and build projects that reflect real operational scenarios.
 
