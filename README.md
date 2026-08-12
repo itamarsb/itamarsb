@@ -161,4 +161,4 @@ For professional inquiries, please contact me through LinkedIn or the freelance 
 
 ---
 
-> This profile documents my continuous development through practical laboratories, portfolio projects, technical writing and open-source collaboration.
+> This profile documents my engineering work through practical laboratories, portfolio projects, freelance technical work, technical documentation and open-source collaboration.
