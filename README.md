@@ -37,7 +37,7 @@ Building practical, portfolio-oriented projects in **AWS, Linux, backend enginee
 
 ## About Me
 
-I am a **Computer Engineering undergraduate in the final stage of graduation**, currently building a practical portfolio focused on entry-level opportunities in **Cloud Engineering, Backend Development, DevOps, Linux Operations and Observability**.
+I am currently expanding my professional trajectory into hands-on engineering roles in Cloud, DevOps, Backend and Observability, combining more than two decades of operational and management experience with my Computer Engineering education and a growing portfolio of practical engineering projects.
 
 My professional background was developed over more than 20 years in the Brazilian electric power sector, where I worked in commercial operations, administration, regional management and business process improvement.
 
