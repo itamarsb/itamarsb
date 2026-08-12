@@ -49,14 +49,16 @@ Today, I continue consolidating and modernizing this experience through freelanc
 
 ---
 
-## Current Stage
+## Current Professional Focus
 
-- Completing my undergraduate degree in **Computer Engineering**;
-- Developing practical repositories for **Cloud, Backend, DevOps and Observability** roles;
-- Preparing for the **AWS Certified Solutions Architect – Associate** certification;
-- Expanding my knowledge of **Terraform, Linux administration, APIs, Docker and CI/CD**;
-- Developing my capstone project around an **open-source observability framework**;
-- Contributing to open-source projects through documentation improvements and architecture diagrams.
+* Providing freelance technical services and developing scoped projects in Cloud, DevOps, infrastructure, APIs, automation and observability;
+* Building and maintaining hands-on engineering repositories covering Cloud, Backend, DevOps, Observability and Infrastructure Operations;
+* Completing my undergraduate degree in Computer Engineering;
+* Developing my capstone project around an open-source Observability Engineering Framework;
+* Preparing for the AWS Certified Solutions Architect – Associate certification;
+* Expanding practical knowledge in Terraform, Linux administration, Docker, CI/CD and cloud infrastructure;
+* Contributing to open-source projects through technical documentation, architecture diagrams and engineering improvements.
+
 
 ---
 
