@@ -60,16 +60,19 @@ My goal is to demonstrate not only technical knowledge, but also the ability to 
 
 ---
 
+
 ## Featured Projects
 
 | Project | Main Focus | Description |
 |---|---|---|
-| [AWS Cloud Engineering Lab](https://github.com/itamarsb/aws-cloud-engineering-lab) | AWS · Linux · Terraform | Hands-on laboratories covering AWS account preparation, IAM, EC2, Systems Manager, CloudWatch, networking and Infrastructure as Code. |
-| [Cloud Infrastructure Operations Lab](https://github.com/itamarsb/cloud-infrastructure-operations-lab) | AWS Operations · Linux · Zabbix · Docker | Portuguese-language portfolio project focused on the practical skills expected from a junior Cloud Infrastructure or Operations Analyst. |
-| [Python Backend Engineering Lab](https://github.com/itamarsb/python-backend-engineering-lab) | Python · FastAPI · PostgreSQL | Progressive backend laboratories covering APIs, validation, databases, testing, containers, CI/CD and cloud deployment. |
+| [AWS Cloud Engineering Lab](https://github.com/itamarsb/aws-cloud-engineering-lab) | AWS · Linux · Terraform · IaC | Hands-on cloud engineering laboratories covering AWS account preparation, IAM, EC2, Systems Manager, CloudWatch, networking, automation and Infrastructure as Code. |
+| [Cloud Infrastructure Operations Lab](https://github.com/itamarsb/cloud-infrastructure-operations-lab) | AWS Operations · Linux · Zabbix · Docker | Hands-on infrastructure operations portfolio focused on Linux administration, cloud operations, monitoring, troubleshooting and the practical skills expected from a junior Cloud Infrastructure or Operations Analyst. |
+| [Grafana Dashboard Engineering Lab](https://github.com/itamarsb/grafana-dashboard-engineering-lab) | Grafana · Prometheus · PromQL · Observability | Progressive dashboard engineering laboratories covering Grafana, Prometheus, Node Exporter, PromQL, infrastructure monitoring, visualization design and observability practices. |
+| [Python Backend Engineering Lab](https://github.com/itamarsb/python-backend-engineering-lab) | Python · FastAPI · PostgreSQL | Progressive backend engineering laboratories covering APIs, validation, databases, testing, containers, CI/CD and cloud deployment. |
 | [Node.js Backend Engineering Lab](https://github.com/itamarsb/nodejs-backend-engineering-lab) | JavaScript · TypeScript · Node.js | Portfolio-oriented backend engineering roadmap with practical laboratories in Node.js, TypeScript, APIs, databases, testing and deployment. |
-| [API Engineering Lab](https://github.com/itamarsb/api-engineering-lab) | REST APIs · FastAPI · OpenAPI · Postman | Practical laboratories focused on API design, documentation, validation, integration, testing and production-oriented practices. |
-| [Observability Engineering Framework](https://github.com/itamarsb/Observability-Engineering-Framework) | OpenTelemetry · Prometheus · Grafana · SRE | Computer Engineering capstone project for building an open-source observability framework using metrics, logs, traces and performance testing. |
+| [API Engineering Lab](https://github.com/itamarsb/api-engineering-lab) | REST APIs · FastAPI · OpenAPI · Postman | Practical laboratories focused on API design, documentation, validation, integration, testing and production-oriented engineering practices. |
+| [Observability Engineering Framework](https://github.com/itamarsb/Observability-Engineering-Framework) | OpenTelemetry · Prometheus · Grafana · SRE | Computer Engineering capstone project for building an open-source observability framework using metrics, logs, traces, SLI/SLO concepts and performance testing. |
+
 
 ---
 
