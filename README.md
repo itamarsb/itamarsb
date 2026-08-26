@@ -75,7 +75,7 @@ Today, I continue consolidating and modernizing this experience through freelanc
 | [API Engineering Lab](https://github.com/itamarsb/api-engineering-lab) | REST APIs · FastAPI · OpenAPI · Postman | Practical laboratories focused on API design, documentation, validation, integration, testing and production-oriented engineering practices. |
 | [Observability Engineering Framework](https://github.com/itamarsb/Observability-Engineering-Framework) | OpenTelemetry · Prometheus · Grafana · SRE | Computer Engineering capstone project for building an open-source observability framework using metrics, logs, traces, SLI/SLO concepts and performance testing. |
 | [Hybrid Observability Platform](https://github.com/itamarsb/hybrid-observability-platform) | Python · FastAPI · Uvicorn · OpenTelemetry · Prometheus · Loki · Tempo · Grafana · K6 · Docker Compose · Terraform · GitHub Actions | Hybrid observability platform integrating OpenTelemetry, Prometheus, Loki, Tempo, Grafana, and optional AWS CloudWatch telemetry, with infrastructure provisioned through Terraform. |
-| [Zabbix_NOC_Operations_Lab](https://github.com/itamarsb/zabbix-linux-network-server-monitoring-lab) | Zabbix · Grafana · Linux · Windows · Docker · Docker Compose · Network · Monitoring · NOC | Hands-on laboratory for network monitoring, Linux servers, SNMP, Zabbix, Grafana, alerts, and secure remote access. |
+| [Zabbix NOC Operations Lab](https://github.com/itamarsb/zabbix-linux-network-server-monitoring-lab) | Zabbix · Grafana · Linux · Windows · Docker · Docker Compose · Network · Monitoring · NOC | Hands-on laboratory for network monitoring, Linux servers, SNMP, Zabbix, Grafana, alerts, and secure remote access. |
 
 ---
 
