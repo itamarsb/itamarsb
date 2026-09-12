@@ -255,13 +255,13 @@ Available for scoped technical projects involving:
 - AWS environments and cloud infrastructure;
 - Linux administration and troubleshooting;
 - Infrastructure as Code with Terraform;
-- monitoring with Zabbix, Prometheus and Grafana;
-- observability with OpenTelemetry, Loki and Tempo;
+- Monitoring with Zabbix, Prometheus and Grafana;
+- Observability with OpenTelemetry, Loki and Tempo;
 - Python automation and API development with FastAPI;
 - Docker and Docker Compose environments;
 - PostgreSQL and database implementation;
 - API testing and documentation;
-- technical documentation, architecture diagrams and operational procedures.
+- Technical documentation, architecture diagrams and operational procedures.
 
 For professional inquiries, please contact me through LinkedIn or Upwork.
 
