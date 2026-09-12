@@ -4,7 +4,7 @@
 
 Desenvolvo soluções práticas em infraestrutura de nuvem, automação, monitoramento, observabilidade, APIs e confiabilidade de sistemas.
 
-[Português](#sobre-mim) · [English](#english-version) · [Projetos](#projetos-em-destaque) · [Contato](#contato-|-contact)
+[Português](#sobre-mim) · [English](#english-version) · [Projetos](#projetos-em-destaque) · [Contato](#contato-contact)
 
 ---
 
