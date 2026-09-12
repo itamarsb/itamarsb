@@ -4,7 +4,7 @@
 
 Desenvolvo soluções práticas em infraestrutura de nuvem, automação, monitoramento, observabilidade, APIs e confiabilidade de sistemas.
 
-[Português](#sobre-mim) · [English](#english-version) · [Projetos](#projetos-em-destaque) · [Contato](#contato-contact)
+[Português](#sobre-mim) · [English](#english-version) · [Projetos](#projetos-em-destaque) · [Contato](#contato)
 
 ---
 
@@ -281,7 +281,7 @@ For professional inquiries, please contact me through LinkedIn or Upwork.
 
 ---
 
-## Contato | Contact
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Itamar_de_Sá_Britto_Júnior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamar-de-s%C3%A1-britto-j%C3%BAnior/)
 [![GitHub](https://img.shields.io/badge/GitHub-itamarsb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itamarsb)
