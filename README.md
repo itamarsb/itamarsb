@@ -81,7 +81,6 @@ Consolido essa transição por meio de laboratórios práticos, projetos de enge
 | [Python Backend Engineering Lab](https://github.com/itamarsb/python-backend-engineering-lab) | Python · FastAPI · PostgreSQL · APIs | Laboratórios progressivos de backend envolvendo APIs, validação, bancos de dados, testes, containers, CI/CD e implantação em nuvem. |
 | [API Engineering Lab](https://github.com/itamarsb/api-engineering-lab) | REST · FastAPI · OpenAPI · Postman | Estudos e implementações práticas de design, documentação, validação, integração e testes de APIs. |
 | [Node.js Backend Engineering Lab](https://github.com/itamarsb/nodejs-backend-engineering-lab) | JavaScript · TypeScript · Node.js | Roteiro de engenharia backend com laboratórios sobre APIs, bancos de dados, testes, segurança e implantação. |
-| [Aerospace Embedded Avionics Engineering Lab](https://github.com/itamarsb/aerospace-embedded-avionics-engineering-lab) | Sistemas embarcados · Sensores · Telemetria · Aviônica | Laboratório de estudos e projetos direcionados a sistemas embarcados, eletrônica aeronáutica, sensores, telemetria e engenharia de sistemas aeroespaciais. |
 | [Embedded Electronics Engineering Lab](https://github.com/itamarsb/embedded-electronics-engineering-lab) | Eletrônica · Microcontroladores · Sensores · Instrumentação | Projetos progressivos de eletrônica e sistemas embarcados, partindo de fundamentos de medição e circuitos até integração com microcontroladores e sensores. |
 
 ---
@@ -209,7 +208,6 @@ I support this transition through practical laboratories, engineering projects, 
 | [Python Backend Engineering Lab](https://github.com/itamarsb/python-backend-engineering-lab) | Python · FastAPI · PostgreSQL · APIs | Progressive backend laboratories covering APIs, validation, databases, testing, containers, CI/CD and cloud deployment. |
 | [API Engineering Lab](https://github.com/itamarsb/api-engineering-lab) | REST · FastAPI · OpenAPI · Postman | Practical studies and implementations covering API design, documentation, validation, integration and testing. |
 | [Node.js Backend Engineering Lab](https://github.com/itamarsb/nodejs-backend-engineering-lab) | JavaScript · TypeScript · Node.js | Backend engineering roadmap covering APIs, databases, testing, security and deployment. |
-| [Aerospace Embedded Avionics Engineering Lab](https://github.com/itamarsb/aerospace-embedded-avionics-engineering-lab) | Embedded systems · Sensors · Telemetry · Avionics | Studies and projects focused on embedded systems, aviation electronics, sensors, telemetry and aerospace systems engineering. |
 | [Embedded Electronics Engineering Lab](https://github.com/itamarsb/embedded-electronics-engineering-lab) | Electronics · Microcontrollers · Sensors · Instrumentation | Progressive electronics and embedded systems projects, from measurement and circuit fundamentals to integration with microcontrollers and sensors. |
 
 ---
