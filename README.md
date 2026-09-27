@@ -81,6 +81,7 @@ Consolido essa transição por meio de laboratórios práticos, projetos de enge
 | [Python Backend Engineering Lab](https://github.com/itamarsb/python-backend-engineering-lab) | Python · FastAPI · PostgreSQL · APIs | Laboratórios progressivos de backend envolvendo APIs, validação, bancos de dados, testes, containers, CI/CD e implantação em nuvem. |
 | [API Engineering Lab](https://github.com/itamarsb/api-engineering-lab) | REST · FastAPI · OpenAPI · Postman | Estudos e implementações práticas de design, documentação, validação, integração e testes de APIs. |
 | [Node.js Backend Engineering Lab](https://github.com/itamarsb/nodejs-backend-engineering-lab) | JavaScript · TypeScript · Node.js | Roteiro de engenharia backend com laboratórios sobre APIs, bancos de dados, testes, segurança e implantação. |
+| [lidar-sonar-lab](https://github.com/itamarsb/lidar-sonar-lab) | C++ · Python · LiDAR · Sonar · Arduino · STM32 · ESP32 · CI/CD · Grafana · MQTT · Mapping · Observability · DevOPs | Repositório voltado para laboratórios utilizando tecnologias LiDAR e Sonar para fins de mapeamento e observação. |
 
 
 ---
@@ -208,7 +209,7 @@ I support this transition through practical laboratories, engineering projects, 
 | [Python Backend Engineering Lab](https://github.com/itamarsb/python-backend-engineering-lab) | Python · FastAPI · PostgreSQL · APIs | Progressive backend laboratories covering APIs, validation, databases, testing, containers, CI/CD and cloud deployment. |
 | [API Engineering Lab](https://github.com/itamarsb/api-engineering-lab) | REST · FastAPI · OpenAPI · Postman | Practical studies and implementations covering API design, documentation, validation, integration and testing. |
 | [Node.js Backend Engineering Lab](https://github.com/itamarsb/nodejs-backend-engineering-lab) | JavaScript · TypeScript · Node.js | Backend engineering roadmap covering APIs, databases, testing, security and deployment. |
-
+| [lidar-sonar-lab](https://github.com/itamarsb/lidar-sonar-lab) | C++ · Python · LiDAR · Sonar · Arduino · STM32 · ESP32 · CI/CD · Grafana · MQTT · Mapping · Observability · DevOPs | Repository aimed at laboratories using LiDAR and Sonar technologies for mapping and observation purposes. |
 
 ---
 
