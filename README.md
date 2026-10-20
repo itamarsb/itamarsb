@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Itamar de Sá Britto Júnior
 
-### Engenharia de Computação | Cloud e Operações de Infraestrutura | AWS | Linux | Terraform | Observabilidade
+### Engenharia de Computação | Cloud e Operações de Infraestrutura | AWS | Linux | Terraform | Observabilidade | Telemetria
 
 Desenvolvo soluções práticas em infraestrutura de nuvem, automação, monitoramento, observabilidade, APIs e confiabilidade de sistemas.
 
