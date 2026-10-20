@@ -49,6 +49,8 @@ Atualmente, direciono minha carreira para Cloud Computing, operações de infrae
 
 Consolido essa transição por meio de laboratórios práticos, projetos de engenharia, documentação técnica, certificações e soluções construídas a partir de cenários operacionais próximos aos encontrados em ambientes reais.
 
+Por fim, também desenvolvo estudos e projetos experimentais na interseção entre observabilidade, telemetria, sistemas embarcados e engenharia aeroespacial, com interesse em CubeSats, nanosatélites, arquiteturas de segmento terrestre, processamento de dados de sensores e detecção de falhas.
+
 ---
 
 ## Foco profissional atual
@@ -176,6 +178,8 @@ Alongside my formal responsibilities, from 2009 to 2020 I also designed, develop
 I am currently transitioning my career toward Cloud Computing, infrastructure operations, DevOps, observability, monitoring, API engineering and Site Reliability Engineering.
 
 I support this transition through practical laboratories, engineering projects, technical documentation, certifications and solutions based on scenarios commonly found in real operational environments.
+
+Finally, I also conduct studies and experimental projects at the intersection of observability, telemetry, embedded systems, and aerospace engineering, with a focus on CubeSats, nanosatellites, ground segment architectures, sensor data processing, and fault detection.
 
 ---
 
