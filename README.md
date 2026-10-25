@@ -4,7 +4,7 @@
 
 Desenvolvo soluções práticas em infraestrutura de nuvem, automação, monitoramento, observabilidade, APIs e confiabilidade de sistemas.
 
-[Português](#sobre-mim) · [English](#english-version) · [Projetos](#projetos-em-destaque) · [Contato](#contato)
+[Português](#sobre-mim) · [English](#english-version) · [Projetos](#projetos-em-destaque) · [Serviços](#serviços-freelance) · [Freelance services](#freelance-services) · [Contato](#contato)
 
 ---
 
@@ -148,21 +148,27 @@ Sistemas embarcados · C/C++ · ESP32 · STM32 · Microcontroladores PIC · IoT 
 
 ## Serviços freelance
 
-Estou disponível para projetos com escopo definido nas seguintes áreas:
+Ofereço serviços técnicos remotos para projetos de escopo definido, com foco em infraestrutura, monitoramento, automação, observabilidade e resolução de problemas operacionais.
 
-- configuração e documentação de ambientes AWS;
-- administração e troubleshooting em Linux;
-- Infrastructure as Code com Terraform;
-- monitoramento com Zabbix, Prometheus e Grafana;
-- observabilidade com OpenTelemetry, Loki e Tempo;
-- automações e APIs com Python e FastAPI;
-- ambientes Docker e Docker Compose;
-- PostgreSQL e implementação de bancos de dados;
-- testes e documentação de APIs;
-- documentação técnica, diagramas de arquitetura e procedimentos operacionais.
+**Serviços disponíveis:**
 
-Para contatos profissionais, utilize o LinkedIn ou a plataforma Upwork, disponíveis no final desta página.
+- **AWS Cloud e infraestrutura:** configuração, revisão e troubleshooting de ambientes AWS, incluindo EC2, VPC, IAM, Systems Manager, S3 e CloudWatch.
+- **Monitoramento e alertas:** implantação e configuração de Zabbix, monitoramento de servidores Linux e Windows, serviços HTTP, DNS, TCP e SNMP, além de métricas, logs e alarmes no Amazon CloudWatch.
+- **Terraform e Infrastructure as Code:** provisionamento de infraestrutura, variáveis, módulos, gerenciamento de estado, validação automatizada e identificação de alterações não planejadas (*drift*).
+- **Linux, NGINX e Docker:** administração de sistemas Linux, diagnóstico de serviços, permissões, logs, conectividade, servidores web e ambientes com Docker Compose.
+- **Observabilidade e dashboards:** projetos delimitados e provas de conceito utilizando Grafana, Prometheus, OpenTelemetry, Loki e Tempo para visualização e análise de métricas, logs e traces.
+- **Python, FastAPI e APIs:** pequenas automações, desenvolvimento de APIs REST com escopo definido, testes de endpoints e documentação técnica com OpenAPI e Postman.
+- **Documentação e procedimentos operacionais:** diagramas de arquitetura, runbooks, checklists de implantação, relatórios de troubleshooting e procedimentos de validação e recuperação.
 
+**Exemplos práticos do meu trabalho:**
+
+- [Cloud Infrastructure Operations Lab](https://github.com/itamarsb/cloud-infrastructure-operations-lab) — AWS, Linux, Terraform, CloudWatch e troubleshooting.
+- [Zabbix NOC Operations Lab](https://github.com/itamarsb/zabbix-linux-network-server-monitoring-lab) — monitoramento, alertas e resposta a incidentes.
+- [Hybrid Observability Platform](https://github.com/itamarsb/hybrid-observability-platform) — métricas, logs, traces e dashboards com tecnologias open source.
+
+Trabalho com entregas técnicas delimitadas, documentação, critérios de validação e procedimentos de transferência de conhecimento.
+
+**Contato profissional:** [Upwork](https://www.upwork.com/freelancers/~01d287d3ea5340c218) · [LinkedIn](https://www.linkedin.com/in/itamar-de-s%C3%A1-britto-j%C3%BAnior/)
 ---
 
 # English version
@@ -253,21 +259,27 @@ Git · GitHub · GitHub Actions · CI/CD · Technical documentation · Troublesh
 
 ## Freelance services
 
-Available for scoped technical projects involving:
+I offer remote technical services for clearly scoped projects, focusing on cloud infrastructure, monitoring, automation, observability, and operational troubleshooting.
 
-- AWS environments and cloud infrastructure;
-- Linux administration and troubleshooting;
-- Infrastructure as Code with Terraform;
-- Monitoring with Zabbix, Prometheus and Grafana;
-- Observability with OpenTelemetry, Loki and Tempo;
-- Python automation and API development with FastAPI;
-- Docker and Docker Compose environments;
-- PostgreSQL and database implementation;
-- API testing and documentation;
-- Technical documentation, architecture diagrams and operational procedures.
+**Available services:**
 
-For professional inquiries, please contact me through LinkedIn or Upwork.
+- **AWS Cloud and infrastructure:** setup, review, and troubleshooting of AWS environments, including EC2, VPC, IAM, Systems Manager, S3, and CloudWatch.
+- **Monitoring and alerting:** Zabbix deployment and configuration, Linux and Windows host monitoring, HTTP, DNS, TCP, and SNMP checks, plus Amazon CloudWatch metrics, logs, and alarms.
+- **Terraform and Infrastructure as Code:** infrastructure provisioning, variables, modules, state management, automated validation, and configuration drift detection.
+- **Linux, NGINX, and Docker:** Linux administration, service troubleshooting, permissions, logs, connectivity, web servers, and Docker Compose environments.
+- **Observability and dashboards:** scoped implementations and proof-of-concept projects using Grafana, Prometheus, OpenTelemetry, Loki, and Tempo for metrics, logs, and traces.
+- **Python, FastAPI, and APIs:** small automation scripts, scoped REST API development, endpoint testing, and technical documentation with OpenAPI and Postman.
+- **Technical documentation and operational procedures:** architecture diagrams, runbooks, deployment checklists, troubleshooting reports, and validation and recovery procedures.
 
+**Selected hands-on portfolio projects:**
+
+- [Cloud Infrastructure Operations Lab](https://github.com/itamarsb/cloud-infrastructure-operations-lab) — AWS, Linux, Terraform, CloudWatch, and troubleshooting.
+- [Zabbix NOC Operations Lab](https://github.com/itamarsb/zabbix-linux-network-server-monitoring-lab) — monitoring, alerting, and incident response.
+- [Hybrid Observability Platform](https://github.com/itamarsb/hybrid-observability-platform) — metrics, logs, traces, and open-source dashboards.
+
+My work emphasizes clearly defined deliverables, technical documentation, validation criteria, and knowledge transfer procedures.
+
+**Professional inquiries:** [Upwork](https://www.upwork.com/freelancers/~01d287d3ea5340c218) · [LinkedIn](https://www.linkedin.com/in/itamar-de-s%C3%A1-britto-j%C3%BAnior/)
 ---
 
 ## 📈 Métricas do perfil | Profile metrics
