@@ -142,7 +142,7 @@ Essa combinação de experiência operacional, conhecimento de negócio e forma�
 
 ## Interesses técnicos complementares
 
-Sistemas embarcados · C/C++ · ESP32 · Microcontroladores PIC · IoT · Telemetria · Sensores · Comunicação por radiofrequência · Eletrônica aeronáutica
+Sistemas embarcados · C/C++ · ESP32 · STM32 · Microcontroladores PIC · IoT · Telemetria · Sensores · Comunicação por radiofrequência · Eletrônica aeronáutica · CubeSats · FlatSats
 
 ---
 
