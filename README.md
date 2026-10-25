@@ -118,8 +118,7 @@ Git · GitHub · GitHub Actions · CI/CD · Documentação técnica · Troublesh
 - **Engenharia de Computação** — graduação em fase de conclusão;
 - **AWS Certified Cloud Practitioner**;
 - **Linux Essentials**;
-- Preparação para **AWS Certified Solutions Architect – Associate**;
-- Trilha planejada de estudos em **Terraform, Linux, Kubernetes, OpenTelemetry e arquitetura AWS**.
+- Preparação para **AWS Certified Solutions Architect – Associate**.
 
 ---
 
@@ -248,8 +247,7 @@ Git · GitHub · GitHub Actions · CI/CD · Technical documentation · Troublesh
 - **Computer Engineering** — undergraduate degree in its final stage;
 - **AWS Certified Cloud Practitioner**;
 - **Linux Essentials**;
-- Preparing for **AWS Certified Solutions Architect – Associate**;
-- Planned study path covering **Terraform, Linux, Kubernetes, OpenTelemetry and advanced AWS architecture**.
+- Preparing for **AWS Certified Solutions Architect – Associate**.
 
 ---
 
