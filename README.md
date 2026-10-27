@@ -34,10 +34,7 @@ Por fim, também desenvolvo estudos e projetos experimentais na interseção ent
 - Zabbix, Prometheus, Grafana e OpenTelemetry;
 - Desenvolvimento de APIs e automações com Python e FastAPI;
 - Docker, CI/CD e documentação de procedimentos técnicos;
-- Projetos freelance com escopo definido;
-- Conclusão da graduação em Engenharia de Computação;
-- Desenvolvimento do Trabalho de Conclusão de Curso sobre um framework de observabilidade open source;
-- Preparação para a certificação AWS Certified Solutions Architect – Associate.
+- Projetos freelance.
 
 ---
 
@@ -88,7 +85,6 @@ Git · GitHub · GitHub Actions · CI/CD · Documentação técnica · Troublesh
 
 - **Engenharia de Computação** — graduação em fase de conclusão;
 - **AWS Certified Cloud Practitioner**;
-- **Linux Essentials**;
 - Preparação para **AWS Certified Solutions Architect – Associate**.
 
 ---
@@ -170,10 +166,7 @@ Finally, I also conduct studies and experimental projects at the intersection of
 - Zabbix, Prometheus, Grafana and OpenTelemetry;
 - Python automation and API development with FastAPI;
 - Docker, CI/CD and technical documentation;
-- Scoped freelance technical projects;
-- Completion of my Computer Engineering degree;
-- Development of an open-source observability framework as my capstone project;
-- Preparation for the AWS Certified Solutions Architect – Associate certification.
+- Freelance technical projects.
 
 ---
 
@@ -223,7 +216,6 @@ Git · GitHub · GitHub Actions · CI/CD · Technical documentation · Troublesh
 
 - **Computer Engineering** — undergraduate degree in its final stage;
 - **AWS Certified Cloud Practitioner**;
-- **Linux Essentials**;
 - Preparing for **AWS Certified Solutions Architect – Associate**.
 
 ---
