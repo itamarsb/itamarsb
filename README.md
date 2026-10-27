@@ -65,11 +65,11 @@ AWS · IAM · EC2 · Systems Manager · CloudWatch · Linux · Redes · Terrafor
 
 ### Monitoramento, observabilidade e confiabilidade
 
-Zabbix · OpenTelemetry · Prometheus · Grafana · Loki · Tempo · Alertmanager · k6 · SLI · SLO
+Zabbix · OpenTelemetry · Prometheus · Grafana · Loki · Tempo · Alertmanager · K6 · SLI · SLO
 
 ### Backend e engenharia de APIs
 
-Python · FastAPI · JavaScript · TypeScript · Node.js · REST APIs · OpenAPI · Postman
+Python · FastAPI · JavaScript · REST APIs · OpenAPI · Postman
 
 ### Bancos de dados
 
@@ -196,11 +196,11 @@ AWS · IAM · EC2 · Systems Manager · CloudWatch · Linux · Networking · Ter
 
 ### Monitoring, observability and reliability
 
-Zabbix · OpenTelemetry · Prometheus · Grafana · Loki · Tempo · Alertmanager · k6 · SLI · SLO
+Zabbix · OpenTelemetry · Prometheus · Grafana · Loki · Tempo · Alertmanager · K6 · SLI · SLO
 
 ### Backend and API engineering
 
-Python · FastAPI · JavaScript · TypeScript · Node.js · REST APIs · OpenAPI · Postman
+Python · FastAPI · JavaScript · REST APIs · OpenAPI · Postman
 
 ### Databases
 
