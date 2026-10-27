@@ -6,7 +6,6 @@ Desenvolvo soluções práticas em infraestrutura de nuvem, automação, monitor
 
 [Português](#sobre-mim) · [English](#english-version) · [Projetos](#projetos-em-destaque) · [Serviços](#serviços-freelance) · [Freelance services](#freelance-services) · [Contato](#contato)
 
----
 
 
 ## Sobre mim
