@@ -301,9 +301,3 @@ My work emphasizes clearly defined deliverables, technical documentation, valida
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Itamar_de_Sá_Britto_Júnior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamar-de-s%C3%A1-britto-j%C3%BAnior/)
 [![GitHub](https://img.shields.io/badge/GitHub-itamarsb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itamarsb)
 [![Upwork](https://img.shields.io/badge/Upwork-Itamar_D.-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d287d3ea5340c218)
-
----
-
-> Este perfil apresenta minha evolução técnica por meio de laboratórios práticos, projetos de engenharia, documentação, certificações e experiências profissionais.
-
-> This profile presents my technical development through practical laboratories, engineering projects, documentation, certifications and professional experience.
