@@ -41,7 +41,7 @@ Por fim, também desenvolvo estudos e projetos experimentais na interseção ent
 ## Projetos em destaque
 
 | Projeto | Tecnologias e foco | Descrição |
-|:---:|:---:|:---|
+|:---:|:---:|:---:|
 | [Cloud Infrastructure Operations Lab](https://github.com/itamarsb/cloud-infrastructure-operations-lab) | AWS · Linux · PowerShell · Bash · Docker · Terraform · Operações | Laboratórios progressivos de administração Linux, preparação de contas AWS, ferramentas de infraestrutura, permissões, automação, validação e troubleshooting operacional. |
 | [Zabbix Linux, Network and Server Monitoring Lab](https://github.com/itamarsb/zabbix-linux-network-server-monitoring-lab) | Zabbix · Grafana · Linux · Windows · Docker · SNMP · NOC | Ambiente prático de monitoramento de servidores, redes e serviços, com descoberta, coleta de métricas, alertas, notificações, testes controlados de falhas e procedimentos de validação. |
 | [Observability Engineering Framework](https://github.com/itamarsb/Observability-Engineering-Framework) | OpenTelemetry · Prometheus · Grafana · Loki · Tempo · K6 · Stress-NG · SRE | Trabalho de Conclusão de Curso em Engenharia de Computação voltado à implementação de um framework open source de observabilidade com métricas, logs, traces, SLI, SLO e testes de desempenho. |
@@ -173,7 +173,7 @@ Finally, I also conduct studies and experimental projects at the intersection of
 ## Featured projects
 
 | Project | Technologies and focus | Description |
-|:---:|:---:|:---|
+|:---:|:---:|:---:|
 | [Cloud Infrastructure Operations Lab](https://github.com/itamarsb/cloud-infrastructure-operations-lab) | AWS · Linux · PowerShell · Bash · Docker · Terraform · Operations | Progressive laboratories covering Linux administration, AWS account preparation, infrastructure tools, permissions, automation, validation and operational troubleshooting. |
 | [Zabbix Linux, Network and Server Monitoring Lab](https://github.com/itamarsb/zabbix-linux-network-server-monitoring-lab) | Zabbix · Grafana · Linux · Windows · Docker · SNMP · NOC | Practical environment for monitoring servers, networks and services, including discovery, metrics, alerts, notifications, controlled failure tests and validation procedures. |
 | [Observability Engineering Framework](https://github.com/itamarsb/Observability-Engineering-Framework) | OpenTelemetry · Prometheus · Grafana · Loki · Tempo · K6 · Stress-NG · SRE | Computer Engineering capstone project focused on an open-source observability framework using metrics, logs, traces, SLI, SLO and performance testing. |
